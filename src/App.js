@@ -1,11 +1,12 @@
-import logo from "./logo.svg";
+import Test from "./components/Test2/Test2";
 // import "./App.css";
-import Card from "./components/Cards/Card";
+// import Card from "./components/Cards/Card";
 
 function App() {
   return (
     <div className="App">
-      <Card />
+      <Test/>
+      {/* <Card /> */}
     </div>
   );
 }

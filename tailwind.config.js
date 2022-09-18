@@ -13,6 +13,9 @@ module.exports = {
       'silver': '#ecebff',
       'bubble-gum': '#ff77e9',
       'bermuda': '#78dcca',
+      'baby-Pinl':"#FAAFBA",
+      'forest-green':"#228B22",
+      'red-clr':'	#AA4A44'
     },
     extend: {
       keyframes: {
